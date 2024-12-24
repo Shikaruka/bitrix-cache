@@ -1,7 +1,7 @@
 {
-  "name": "webarchitect609/bitrix-cache",
+  "name": "shikaruka/bitrix-cache",
   "description": "Comfortable fluent interface for Bitrix cache. Anti-stampede cache protection.",
-  "homepage": "https://github.com/webarchitect609/bitrix-cache",
+  "homepage": "https://github.com/shikaruka/bitrix-cache",
   "keywords": [
     "bitrix",
     "cache",
